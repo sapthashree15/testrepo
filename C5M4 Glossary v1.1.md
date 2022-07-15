@@ -15,7 +15,7 @@
 <td width="20%"valign="top">Build</td>
 <td width="20%">
 
-<p style="color:blue;">The process of transforming inputs into a resultant object.</p>
+<code style="color:blue;">The process of transforming inputs into a resultant object.</code>
 <td width="40%">
 </tr>
 
