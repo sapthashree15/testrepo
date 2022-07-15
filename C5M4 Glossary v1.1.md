@@ -5,7 +5,7 @@
 ### Module 4 Glossary: The Kubernetes Ecosystem
 </div>
 
-<table>
+<table style= "color:blue;">
 <tr>
 <th width="20%">Term</th>  <th>Definition</th>
 </tr>
