@@ -1,8 +1,10 @@
-## <center>Introduction to Containers, Kubernetes, and OpenShift</center>
-### <center>Module 4 Glossary: The Kubernetes Ecosystem</center>
 
+<div align="center">
 
-<img src="images/IDSNlogo.png" width="200">
+## Introduction to Containers, Kubernetes, and OpenShift
+### Module 4 Glossary: The Kubernetes Ecosystem
+</div>
+
 
 <table>
 <tr>
