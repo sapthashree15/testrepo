@@ -8,16 +8,14 @@
 
 <table>
 <tr>
-<th width="20%">Term</th width="20%"><th>Definition</th>
+<th width="20%">Term</th>  <th>Definition</th>
 </tr>
 
 <tr>
 <td width="20%"valign="top">Build</td>
-<td width="20%"><code>The process of transforming inputs into a resultant 
-object.
- </code>
+<td width="20%">The process of transforming inputs into a resultant object.
+ 
 <td width="40%">
-
 </tr>
 
 
