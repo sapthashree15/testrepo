@@ -7,11 +7,11 @@
 
 <table style= "color:blue;">
 <tr>
-<th width="20%">Term</th>  <th>Definition</th>
+<th style= background-color:lightblue width="20%">Term</th>  <th>Definition</th>
 </tr>
 
 <tr>
-<td width="20%"valign="top">Build</td>
+<td width="20%" valign="top">Build</td>
 <td width="20%">
 <code>The process of transforming inputs into a resultant object.</code>
 <td width="20%">
