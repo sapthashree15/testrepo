@@ -5,7 +5,6 @@
 ### Module 4 Glossary: The Kubernetes Ecosystem
 </div>
 
-
 <table>
 <tr>
 <th width="20%">Term</th>  <th>Definition</th>
@@ -14,7 +13,6 @@
 <tr>
 <td width="20%"valign="top">Build</td>
 <td width="20%">
-
 <code>The process of transforming inputs into a resultant object.</code>
 <td width="20%">
 </tr>
